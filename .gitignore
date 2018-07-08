@@ -1,0 +1,4 @@
+*.o
+input/
+Rangetree/rangetree
+Rangetree/test
